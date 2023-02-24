@@ -28,8 +28,6 @@
 
 ### Newton's Backward Interpolation
 
-###
-
 ### and other
 
 ## Numerical Differentiation
